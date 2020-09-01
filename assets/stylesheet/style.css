@@ -1,0 +1,18 @@
+body {
+  background-image: url("../images/background.png");
+}
+
+.container {
+  height: 50%;
+  width: 40%;
+  padding: 20px;
+  margin: 10px;
+}
+
+.my-picture {
+  width: 100%;
+}
+
+.about-me {
+  color: teal;
+}
