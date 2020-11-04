@@ -5,8 +5,8 @@ body {
 }
 
 .portfolio-container {
-  height: 100%;
-  width: 60%;
+  height: auto;
+  width: 80%;
   padding: 20px;
   margin: 10px;
   background-color: white;
@@ -18,7 +18,7 @@ body {
 .footer {
   border-top: 5px solid teal;
   margin-top: 3em;
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
   height: 55px;
@@ -35,4 +35,9 @@ body {
   .container {
     width: 80%;
   }
+}
+
+.Eat {
+  height: 100px;
+  width: 100px;
 }
